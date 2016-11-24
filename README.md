@@ -1,2 +1,2 @@
 # CourseraMachineLearning
-exercises for machine learning class
+Octave exercises for machine learning class
